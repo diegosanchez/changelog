@@ -2,6 +2,10 @@
     "file": "CHANGELOG.md",
     "sections": [
         {
+            "title": "Release",
+            "grep": "^release"
+        },
+        {
             "title": "Bug Fixes",
             "grep": "^fix"
         },

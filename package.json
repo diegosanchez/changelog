@@ -1,6 +1,6 @@
 {
   "name": "testingchangelog",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "description": "This is a project for us to test git-changelog",
   "main": "index.js",
   "scripts": {
