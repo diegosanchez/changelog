@@ -22,8 +22,8 @@
             "grep": "^refactor"
         },
         {
-            "title": "Style",
-            "grep": "^style"
+            "title": "Module",
+            "grep": "^mod"
         },
         {
             "title": "Test",

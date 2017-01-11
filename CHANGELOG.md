@@ -1,6 +1,15 @@
 # "testingchangelog"
 
-## "0.0.1"  ( Wed Jan 11 2017 11:48:19 GMT-0300 (ART) )
+## "0.0.1"  ( Wed Jan 11 2017 11:55:34 GMT-0300 (ART) )
+
+
+## Bug Fixes
+
+  - **index**
+    - fix title
+  ([3066ac57](git@github.com:diegosanchez/changelog/commit/3066ac571b52ccbf4cf49cc17c3bbd7d2608edb3))
+
+
 
 
 

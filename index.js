@@ -1,1 +1,1 @@
-console.log('GIT-CHANGELOG TEST');
+console.log('Otro mensaje');
