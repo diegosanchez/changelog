@@ -1,6 +1,13 @@
 # "testingchangelog"
 
-## "0.0.1"  ( Wed Jan 11 2017 12:15:17 GMT-0300 (ART) )
+## "0.9.0"  ( Wed Jan 11 2017 12:25:56 GMT-0300 (ART) )
+
+
+## Release
+  - release(0.9.0):
+  ([6272d27b](git@github.com:diegosanchez/changelog/commit/6272d27b597bf5c1412b8bdd06c1c1a8a8c50708))
+
+
 
 
 ## Documentation
@@ -12,7 +19,7 @@
 
 ## Test
   - test(main) Addeding tests
-  ([42c821b7](git@github.com:diegosanchez/changelog/commit/42c821b70db3df7e17f6f12c97e6c824ee374fdc))
+  ([6850c38a](git@github.com:diegosanchez/changelog/commit/6850c38a25d1cb9ee3a11bd6cea6f6994475bf9c))
 
 
 
