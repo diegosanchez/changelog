@@ -1,0 +1,27 @@
+{
+  "name": "testingchangelog",
+  "version": "0.0.1",
+  "description": "This is a project for us to test git-changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog:update" : "./node_modules/.bin/git-changelog -a $(cat ./package.json | jq .name -M) -n $(cat ./package.json | jq .version -M)" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/diegosanchez/changelog.git"
+  },
+  "keywords": [
+    "test",
+    "release"
+  ],
+  "author": "diegosanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosanchez/changelog/issues"
+  },
+  "homepage": "https://github.com/diegosanchez/changelog#readme",
+  "devDependencies": {
+    "git-changelog": "^1.1.1"
+  }
+}
