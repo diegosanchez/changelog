@@ -1,20 +1,18 @@
 # "testingchangelog"
 
-## "0.0.1"  ( Wed Jan 11 2017 12:07:15 GMT-0300 (ART) )
+## "0.0.1"  ( Wed Jan 11 2017 12:15:17 GMT-0300 (ART) )
 
 
-## Bug Fixes
-
-  - **index**
-    - fix title
-  ([3066ac57](git@github.com:diegosanchez/changelog/commit/3066ac571b52ccbf4cf49cc17c3bbd7d2608edb3))
+## Documentation
+  - docs(changelog)
+  ([1004f651](git@github.com:diegosanchez/changelog/commit/1004f6515664f2984c7b7d143e22719434afa273))
 
 
 
 
-## Refactor
-  - refactor(index) title
-  ([c3421f23](git@github.com:diegosanchez/changelog/commit/c3421f23a2c014684d3ab671edad4e5789b0e836))
+## Test
+  - test(main) Addeding tests
+  ([42c821b7](git@github.com:diegosanchez/changelog/commit/42c821b70db3df7e17f6f12c97e6c824ee374fdc))
 
 
 
