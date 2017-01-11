@@ -1,1 +1,3 @@
-console.log('Otro mensaje');
+var m = require('./module.js');
+
+m.display();

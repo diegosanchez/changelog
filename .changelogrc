@@ -23,7 +23,7 @@
         },
         {
             "title": "Module",
-            "grep": "^mod"
+            "grep": "^\["
         },
         {
             "title": "Test",
